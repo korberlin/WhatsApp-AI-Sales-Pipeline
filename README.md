@@ -18,7 +18,7 @@ A robust Node.js application that creates an automated sales pipeline integratin
 
 ## System Architecture
 
-![System Architecture](https://via.placeholder.com/800x400?text=WhatsApp+AI+Sales+Pipeline+Architecture)
+![System Architecture](img/system.svg)
 
 The application follows a clean, modular architecture:
 
